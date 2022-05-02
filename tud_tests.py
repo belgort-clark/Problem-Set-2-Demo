@@ -1,3 +1,5 @@
+# DO NOT MODIFY THE CODE IN THIS FILE
+
 # Source of this code: https://gist.github.com/mauricioaniche/671fb553a81df9e6b29434b7e6e53491
 # Python builtins package https://docs.python.org/3/library/builtins.html
 

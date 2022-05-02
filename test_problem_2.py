@@ -1,3 +1,5 @@
+# DO NOT MODIFY THE CODE IN THIS FILE
+
 # Tests for Problem 2
 # Body Mass Index
 
