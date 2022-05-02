@@ -1,7 +1,7 @@
 # YOUR NAME
 # CTEC 121
 # Problem Set 3 - Problem 3
-# Simple Pay Program
+# Travel Time
 
 """
 Inputs, Processes and Outputs (IPO)

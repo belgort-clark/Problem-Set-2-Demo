@@ -1,7 +1,7 @@
 # YOUR NAME
 # CTEC 121
 # Problem Set 3 - Problem 2
-# Simple Pay Program
+# Body Mass Index
 
 """
 Inputs, Processes and Outputs (IPO)
